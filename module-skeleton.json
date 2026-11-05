@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-multi-tender-payments-flutter",
+  "capabilityKey": "planned:ecommerce:multi-tender-payments",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_multi_tender_payments_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/multi-tender-payments.md",
+  "presentationPlan": "projects/ecommerce/flutter/multi-tender-payments.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
